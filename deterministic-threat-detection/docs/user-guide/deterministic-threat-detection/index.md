@@ -10,10 +10,10 @@ hide_directive-->
 
 <!--hide_directive
 <div class="component_card_widget">
-  <a class="icon_github" href="https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/tree/main/deterministic-threat-detection">
+  <a class="icon_github" href="https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/tree/release-2026.3.0/deterministic-threat-detection">
      GitHub
   </a>
-  <a class="icon_document" href="https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/blob/main/deterministic-threat-detection/README.md">
+  <a class="icon_document" href="https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/blob/release-2026.3.0/deterministic-threat-detection/README.md">
      Readme
   </a>
   <a class="icon_download" href="https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/releases/download/fedaero-latest/deterministic-threat-detection.zip">
