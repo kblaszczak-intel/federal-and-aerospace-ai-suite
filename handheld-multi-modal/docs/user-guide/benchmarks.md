@@ -1,8 +1,3 @@
-<!--
-SPDX-FileCopyrightText: (C) 2026 Intel Corporation
-SPDX-License-Identifier: Apache-2.0
--->
-
 # Benchmark — Handheld (Soldier System) Blueprint
 
 For platform-level benchmarking — vision AI inference, hardware-accelerated media processing,
@@ -11,7 +6,7 @@ end-to-end video analytics pipelines, and generative AI — see the
 
 The Handheld Multi-Modal application itself reports live CPU, memory, GPU, NPU, and power
 telemetry in the **Resources** panel of the operator console. See the
-[Operator Guide](operator-guide.md#resources).
+[Operator Guide](multi-modal/operator-guide.md#resources).
 
 <!--hide_directive
 :::{toctree}
