@@ -15,6 +15,7 @@ For more detailed information on Edge Pack, refer to
 ## Prerequisites
 
 - Ubuntu 24.04 LTS target with Internet access (or a configured proxy).
+- Curl installed (your distribution amy come without it).
 - Sudo access on the target. The installer prompts for the sudo password unless
   `SUDO_PASSWORD` or `SUDO_ASKPASS` is set, or passwordless sudo is granted.
 
