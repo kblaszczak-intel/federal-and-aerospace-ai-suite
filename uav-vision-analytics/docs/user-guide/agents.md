@@ -27,8 +27,8 @@ power and thermal tuning) to application-level pipeline generation with Intel DL
 DL Streamer Pipelines Guide <infrastructure/build-dlstreamer-pipelines.md>
 Infrastructure AI Agent Integration <infrastructure/agent-skills.md>
 SDK Agent Commands and MCP Tools <infrastructure/uav-sdk-apps-skill.md>
-Vision Analytics skills <https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/tree/main/uav-vision-analytics/.github/skills>
-Ground Station skills <https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/blob/main/uav-ground-station/.github/skills/uav-ground-station/SKILL.md>
+Vision Analytics skills <https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/tree/release-2026.3.0/uav-vision-analytics/.github/skills>
+Ground Station skills <https://github.com/open-edge-platform/federal-and-aerospace-ai-suite/blob/release-2026.3.0/uav-ground-station/.github/skills/uav-ground-station/SKILL.md>
 
 :::
 hide_directive-->
