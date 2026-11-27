@@ -27,8 +27,6 @@ Follow these steps to deploy and use the application:
 3. [Operator Guide](./operator-guide.md) — Use cameras, evidence, the assistant, mission documents, alerts, and voice.
 4. [Application Operations](./application-operations.md) — Lifecycle commands, offline copy to other devices, and model changes.
 
-The platform must be provisioned first, and the accelerators verified with
-[Install OEP SDKs](../install-oep-sdks.md).
 
 ## Features
 

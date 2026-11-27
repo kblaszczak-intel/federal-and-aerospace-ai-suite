@@ -1,8 +1,3 @@
-<!--
-SPDX-FileCopyrightText: (C) 2026 Intel Corporation
-SPDX-License-Identifier: Apache-2.0
--->
-
 # Infrastructure Setup
 
 There are 2 ways to prepare the required infrastructure:
@@ -22,7 +17,7 @@ There are 2 ways to prepare the required infrastructure:
    2. Deploy the image across multiple computers.
 
 
-The infrastructure software offered by Edge Pack enables a selection of advanced options for
+The infrastructure software offers a selection of advanced options for
 collecting system information and customizing performance parameters. These are documented in
 [Infrastructure capabilities](./infrastructure/platform-capabilities.md).
 

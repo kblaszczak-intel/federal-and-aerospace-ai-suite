@@ -37,7 +37,9 @@ Follow these steps to deploy the Handheld (Soldier System) Blueprint:
 1. [Install on Ubuntu](./infrastructure/installation-on-ubuntu.md) or [Customized Image](./infrastructure/customized-image.md) — Build the OS image, flash it to a bootable USB, and validate the provisioned platform.
 2. [Reference Applications](applications.md) — Deploy and use the Handheld Multi-Modal Application or other applications.
 3. [Benchmarks](benchmarks.md) — Benchmark AI workloads across the available hardware.
-4. [Install OEP SDKs](install-oep-sdks.md) (optional) — Verify hardware accelerators and install the OEP Vision AI SDK on the provisioned target.
+
+
+<!-- 4. [Install OEP SDKs](install-oep-sdks.md) (optional) — Verify hardware accelerators and install the OEP Vision AI SDK on the provisioned target. -->
 
 ## AI Agent SKILLs
 
@@ -54,7 +56,6 @@ Infrastructure Setup <infrastructure-setup.md>
 Reference Applications <applications.md>
 Benchmarks <benchmarks.md>
 AI Agent SKILLs <agents.md>
-Install OEP SDKs <install-oep-sdks.md>
 Release Notes <release-notes.md>
 
 :::

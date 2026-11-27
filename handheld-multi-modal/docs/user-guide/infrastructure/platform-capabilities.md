@@ -5,7 +5,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Infrastructure software Capabilities
 
-The infrastructure software offered by Edge Pack enables a selection of advanced options for
+The infrastructure software offers a selection of advanced options for
 collecting system information and customizing performance parameters. See how to use this
 advanced tooling below.
 

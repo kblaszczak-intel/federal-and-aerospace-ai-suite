@@ -12,7 +12,7 @@ local machine.
 
 | Requirement | Notes |
 |-------------|-------|
-| Intel® Core™ Ultra processor with integrated GPU and NPU | Drivers must expose `/dev/dri/renderD128` (GPU) and `/dev/accel/accel0` (NPU). See [Install OEP SDKs](../install-oep-sdks.md) to verify the accelerators. |
+| Intel® Core™ Ultra processor with integrated GPU and NPU | Drivers must expose `/dev/dri/renderD128` (GPU) and `/dev/accel/accel0` (NPU). |
 | Docker Engine and Docker Compose 2.24.4 or later | [Install guide](https://docs.docker.com/engine/install/). Use `docker compose` (space), not `docker-compose` (hyphen). The user must be able to run `docker` without `sudo`. |
 | GNU Make, Bash, Python 3.11 or later, curl, OpenSSL | Standard Linux utilities used by the Makefile. |
 | Disk space and Internet access for the first start | The first start downloads several GB of container images and models. Later starts run offline. |
